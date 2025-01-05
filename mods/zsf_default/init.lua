@@ -1,0 +1,1 @@
+core.log("action", "MOD: zsf_default")
